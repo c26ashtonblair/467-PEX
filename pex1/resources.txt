@@ -1,0 +1,29 @@
+https://www.geeksforgeeks.org/fread-function-in-c/
+Utilized this site to understand and use the fread function 
+in order to read and push the file to the client.
+
+https://www.tutorialspoint.com/c_standard_library/c_function_fwrite.htm
+Utilized this site to understand and use the fwrite function in my client
+to write to the file from the input in the socket.
+
+https://chatgpt.com/share/035db8f1-e98d-40a6-aa37-14f091f59a0f
+Was stuck with my server sending gibberish, so I input this prompt
+into CHATGPT. It assisted me in deconflicting the variable fileName
+so I could pass the file with no issues.
+
+https://pubs.opengroup.org/onlinepubs/009695399/functions/send.html
+Utilized this site to better understand how to use the send function throughout
+my code. 
+
+https://usafa0.sharepoint.com/:b:/r/sites/dfcs/Shared%20Documents/Courses/CS467/CS467%20-%2023%20Fall/Assessments/Pex_CLAB/PEX/Resources/Sockets%20Tutorial%20RPI.pdf?csf=1&web=1&e=fQC91M
+Utilized this provided resource to better understand how the code was supposed to work.
+Needed a lot of help because I didn't understand the error handling and how to check
+to see if actions weren't completed. Walked through step by step the
+explanations to better understand what I was missing in my code to ensure
+proper connection between the two.
+
+
+
+All this to say I needed a lot of help on this PEX. I realized last night that
+I was not going to be able to finish this and my Doc statement because of how lost
+I was. For future assignments I will ensure I get EI in order to fix my issues.
